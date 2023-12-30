@@ -1,5 +1,8 @@
-some conflict here! 
+# References
+no more conflict here! 
 
-I don't know which line were edited on main. 
+I don't know which line were edited on main -> now I know 
 
-I hust put that here in case it is needed!
+I just put that here in case it is needed!
+
+* octocat 1 😈
